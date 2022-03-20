@@ -1,0 +1,124 @@
+.rectangle {
+  width: 100px;
+  height: 190px;
+  background: #d7e4bd;
+  border-radius: 20px;
+  border: 1px solid #000000;
+  position: relative
+}
+.square {
+  width: 85px;
+  height: 85px;
+  background: #ffffff;
+  border-radius: 15px;
+  position: absolute;
+  left: 15px; 
+  top: 15px;
+  border: 1px solid #000000;
+}
+.text {
+  font-size: 30px;
+  position: absolute;
+  left: 24px;
+  top: 40px;
+  color: #000000 ;
+}
+.circle {
+  width: 20px;
+  height: 20px;
+  background: #3d2d50;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 50px;
+  position: absolute;
+  left: 20px; 
+  top: 110px;
+}
+.cir2 {
+  width: 20px;
+  height: 20px;
+  background: #3d2d50;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 50px;
+  position: absolute;
+  left: 20px; 
+  top: 135px;
+}
+.cir3 {
+  width: 20px;
+  height: 20px;
+  background: #3d2d50;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 50px;
+  position: absolute;
+  left: 20px; 
+  top: 160px;
+}
+.cir4 {
+  width: 20px;
+  height: 20px;
+  background: #3d2d50;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 50px;
+  position: absolute;
+  left: 48px; 
+  top: 110px;
+}
+.cir5 {
+  width: 20px;
+  height: 20px;
+  background: #3d2d50;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 50px;
+  position: absolute;
+  left: 75px; 
+  top: 110px;
+}
+.cir6 {
+  width: 20px;
+  height: 20px;
+  background: #3d2d50;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 50px;
+  position: absolute;
+  left: 75px; 
+  top: 135px;
+}
+.cir7 {
+  width: 20px;
+  height: 20px;
+  background: #3d2d50;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 50px;
+  position: absolute;
+  left: 48px; 
+  top: 135px;
+}
+.cir8 {
+  width: 20px;
+  height: 20px;
+  background: #3d2d50;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 50px;
+  position: absolute;
+  left: 48px; 
+  top: 160px;
+}
+.cir9 {
+  width: 20px;
+  height: 20px;
+  background: #3d2d50;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 50px;
+  position: absolute;
+  left: 75px; 
+  top: 160px;
+}
